@@ -1,0 +1,1 @@
+Select Name FROM SysColumns Where id=Object_Id('%s')

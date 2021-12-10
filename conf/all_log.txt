@@ -1,0 +1,23 @@
+2021-12-04 21:20:03,568 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-04 21:33:45,203 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-04 21:35:19,408 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-04 21:36:25,533 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-04 21:36:56,568 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-04 21:42:14,321 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-04 21:43:44,985 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-06 10:43:34,454 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-06 10:46:36,723 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-06 10:49:40,535 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-06 10:50:18,151 - INFO - 请求报错：'str' object has no attribute 'items'
+2021-12-06 17:47:25,433 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-12-06 17:47:57,428 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-12-06 17:51:18,912 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-12-06 17:51:30,853 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-12-06 17:52:42,094 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-12-06 17:52:50,870 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-12-06 17:54:06,667 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-12-06 17:54:49,497 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-12-06 17:54:57,797 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-12-06 17:55:46,727 - INFO - 请求报错：Invalid return character or leading space in header: User-Agent
+2021-11-30 01:01:11,074 - INFO - 请求报错：HTTPConnectionPool(host='202.61.88.12', port=8280): Max retries exceeded with url: /succezci/cifill/loaddatapackage (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FF246520C8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-10-31 04:09:40,893 - INFO - 请求报错：('Connection aborted.', TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))

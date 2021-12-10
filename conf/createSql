@@ -1,0 +1,10 @@
+exec sp_executesql N'
+create table %s(
+orgcode  varchar(200),
+orgname  varchar(200),
+"LAST_SC3.5"  varchar(200),
+"CURRENT_SC3.5"  varchar(200),
+"LAST_SC2.1.2.1.2" varchar(200),
+"CURRENT_SC2.1.2.1.2"  varchar(200),
+month  varchar(200)
+)'
